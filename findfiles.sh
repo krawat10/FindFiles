@@ -28,7 +28,7 @@ echo "Select next option(1-8)"
 }
 
 filename(){
-echo "Wpisz nazwe pliku: "
+echo "Imput filename: "
 read FILENAME
 }
 
